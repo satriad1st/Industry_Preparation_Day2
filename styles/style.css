@@ -1,0 +1,21 @@
+.f12 {
+    font-size: 12px;
+}
+
+.f14 {
+    font-size : 14px;
+}
+
+.f16 {
+    font-size : 16px;
+}
+
+.border-white{
+    border : 2px solid white;
+    background-color: white;
+    border-radius: 50px 20px;
+}
+
+.float-right {
+    float: right;
+}
